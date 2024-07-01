@@ -28,7 +28,7 @@
         <key>CFBundleURLSchemes</key>
         <array>
           <string>myapp</string>
-          <string>com.jpdev.yummday</string>
+          <string>com.jeral495.yummday</string>
         </array>
       </dict>
     </array>
