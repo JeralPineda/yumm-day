@@ -8,8 +8,7 @@ import { OAuthProvider } from "react-native-appwrite";
 //* client id web: 54442420294-vuueq211oj24kf8t78t1r0abvlkqcev7.apps.googleusercontent.com - secret : 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
 
 //* client id ios: 54442420294-8e0714khr3bg3jc7vcp7jvgajqd578ao.apps.googleusercontent.com
-
-//* client id android:54442420294-k32fb2t86ull7ollt20gmcglm8sv893c.apps.googleusercontent.com
+//* client id android: 54442420294-k32fb2t86ull7ollt20gmcglm8sv893c.apps.googleusercontent.com
 
 export default function SignIn() {
   // const { signIn } = useSession();
